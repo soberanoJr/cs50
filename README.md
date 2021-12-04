@@ -1,4 +1,4 @@
-## This is `CS50`.
+## This is CS50.
 
 ### [CS50x](https://cs50.harvard.edu/x/2021/)
 
@@ -9,3 +9,5 @@
 ### [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/2018/)
 
 ### [CS50’s Computer Science for Business Professionals](https://cs50.harvard.edu/business/2017/)
+
+> ### [`me50`](https://github.com/me50/soberanoJr)
